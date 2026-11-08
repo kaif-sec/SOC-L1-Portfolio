@@ -1,0 +1,33 @@
+dirb http://fakebank.thm 
+
+Opt :- 
+
+
+---- Scanning URL: http://fakebank.thm/ ----
+
++ http://fakebank.thm/bank-transfer (CODE:200|SIZE:4663)
++ http://fakebank.thm/images (CODE:301|SIZE:179)
+
+-----------------
+END_TIME: Sun, Nov 08, 2026, 16:41:12
+DOWNLOADED: 4610 - FOUND: 2
+
+
+
+
+
+FakeBankFake Bank
+Safe & Secure
+Internet Banking
+Staff Account
+Register cash deposits
+Success! Deposit completed
+
+You have successfully completed the deposit, here are the details for reference:
+Deposit reference
+8327492-133
+Amount
+2000.00 USD
+Date of deposit
+2026-11-08
+Return to Bank Transfer Page
